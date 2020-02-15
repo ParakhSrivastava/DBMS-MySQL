@@ -10,4 +10,5 @@
 * **File_9** -> *LOGICAL OPERATORS, CASE statements, MEMBERSHIP OPERATORS, CAST*
 * **File_10** -> *JOINS, INNER, LEFT FULL*
 * **File_11** -> *JOINS EXERCISES*
-* **INSTAGRAM PROJECT** with Data *Instagram_DATA*(created manually)
+
+**INSTAGRAM PROJECT** with *Instagram_DATA* (created manually)
